@@ -42,7 +42,7 @@ Here you have the main topics and for each one there are some suggested courses 
 &nbsp;&nbsp;&nbsp;&nbsp;[Think stats (book)](https://bit.ly/3KA6nEO) <br>
 
 ### 4. SQL
-[Intro to sql (datacamp)](https://bit.ly/3i1g7M0) <br>  
+[Intro to sql (datacamp)](https://bit.ly/3i1g7M0)
 [Intro to sql and db (datacamp)](https://bit.ly/36ak52f) <br> 
 [Intermediate sql (datacamp)](https://bit.ly/3J09xBx ) <br>
 
