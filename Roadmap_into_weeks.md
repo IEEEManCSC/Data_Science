@@ -2,7 +2,7 @@
 
 ## It's the same roadmap, but divided into weeks with an average studying rate of 6 hours per week.
 <br>
-***> You should make a task after each week ,and some projects after each stage***
+> You should make a task after each week ,and some projects after each stage
 
 ## Stage 1
 ### Week1 :
@@ -32,7 +32,7 @@ Finish [Descriptive stats](https://www.udacity.com/course/intro-to-descriptive-s
 Finish [Cleaning (datacamp)](https://app.datacamp.com/learn/courses/cleaning-data-in-python) <br>
 [Visualizing (datacamp)](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-seaborn ) <br>
 
-
+## Stage 2
 ### Week7:
 [Ask Questions (from google specialization)](https://www.coursera.org/learn/ask-questions-make-decisions?specialization=google-data-analytics) <br>
 [More Visualizing (datacamp)](https://app.datacamp.com/learn/courses/intermediate-data-visualization-with-seaborn ) <br>
@@ -63,5 +63,7 @@ Finish [Tableau (udacity)](https://www.udacity.com/course/data-visualization-in-
 [Inferential Stats](https://classroom.udacity.com/courses/ud201 ) <br>
 
 
+<br>
+> More to be added...
 
 
