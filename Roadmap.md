@@ -22,6 +22,36 @@ Here you have the main topics and for each one there are some suggested courses 
 &nbsp;&nbsp;&nbsp;&nbsp;[Cleaning session](https://bit.ly/35Le3oY )  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Cleaning datacamp](https://bit.ly/3w2iQ0h )  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Cleaning (part of google specialization)](https://bit.ly/3vQTEts ) <br>
+* EDA <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Ask questions(from google specialization)](https://bit.ly/3CLwM01) <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;[Visualizing intro to seaborn (datacamp)](https://bit.ly/3KprvxE ) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Visualizing intro to matplotlib (datacamp)](https://bit.ly/3Cz9E4M ) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Visualizing intermediate seaborn (datacamp)](https://bit.ly/3pWPQmu) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[EDA (datacamp)](https://bit.ly/3KChY6z ) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[EDA (from google specialization)](https://bit.ly/3CzSrrW ) <br>
+* Dashboards <br>
+&nbsp;&nbsp; 1. Tableau: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Tableau (google specialization)]( https://bit.ly/3pY9LBB) <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;[Tableau (udacity)](https://bit.ly/3sZyJm9 ) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Tableau learning](https://tabsoft.co/3tOvtJk) <br>
+&nbsp;&nbsp; 2. Power BI: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Power BI (Coursera)](https://www.coursera.org/projects/power-bi-desktop) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Power BI learning](https://powerbi.microsoft.com/en-us/learning/) <br> 
+* More Statistics <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Inferential stats (udacity)](https://bit.ly/37a34FY) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Think stats (book)](https://bit.ly/3KA6nEO) <br>
+
+### 4. SQL
+[Intro to sql (datacamp)](https://bit.ly/3i1g7M0) <br>  
+[Intro to sql and db (datacamp)](https://bit.ly/36ak52f) <br> 
+[Intermediate sql (datacamp)](https://bit.ly/3J09xBx ) <br>
+
+### 5. Tools
+[Git (udacity)](https://bit.ly/3I1h8yc) <br> 
+[Intro to web scraping (datacamp)](https://bit.ly/3CuNyjE) <br> 
+[Web scraping (datacamp)]( https://bit.ly/37kqrgi) <br>
+
+
 
 
 
