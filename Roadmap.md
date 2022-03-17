@@ -46,7 +46,7 @@ Here you have the main topics and for each one there are some suggested courses 
 [Intro to sql and db (datacamp)](https://bit.ly/36ak52f) <br> 
 [Intermediate sql (datacamp)](https://bit.ly/3J09xBx ) <br>
 
-### 5. Tools
+### 5. Tools 
 [Git (Udacity)](https://bit.ly/3I1h8yc) <br> 
 [Intro to web scraping (datacamp)](https://bit.ly/3CuNyjE) <br> 
 [Web scraping (datacamp)]( https://bit.ly/37kqrgi) <br>
