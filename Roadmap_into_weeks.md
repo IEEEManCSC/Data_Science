@@ -1,6 +1,14 @@
 # Roadmap into weeks
 
 ## It's the same roadmap, but divided into weeks with an average studying rate of 6 hours per week.
+
+### This roadmap is divided into 4 stages:
+### 1. Stage 1: you get a basic understanding of the prerequisites, data cleaning and git.
+### 2. Stage 2: learn visualizing, Tableau, SQL and web scraping.
+### 3. Stage 3: dive into ML and Math
+### 4. Stage 4: where we learn DL, CV and NLP.
+
+
 <br>
 > You should make a task after each week ,and some projects after each stage
 
