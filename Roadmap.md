@@ -42,7 +42,7 @@ Here you have the main topics and for each one there are some suggested courses 
 &nbsp;&nbsp;&nbsp;&nbsp;[Think stats (book)](https://bit.ly/3KA6nEO) <br>
 
 ### 4. SQL
-[Intro to sql (datacamp)](https://bit.ly/3i1g7M0)
+[Intro to sql (datacamp)](https://bit.ly/3i1g7M0) <br>
 [Intro to sql and db (datacamp)](https://bit.ly/36ak52f) <br> 
 [Intermediate sql (datacamp)](https://bit.ly/3J09xBx ) <br>
 
@@ -51,6 +51,18 @@ Here you have the main topics and for each one there are some suggested courses 
 [Intro to web scraping (datacamp)](https://bit.ly/3CuNyjE) <br> 
 [Web scraping (datacamp)]( https://bit.ly/37kqrgi) <br>
 
+### 6. Machine Learning
+* Probability and linear algebra <br>
+&nbsp;[Probability (khanacademy)](https://bit.ly/379gylk) <br> 
+&nbsp;[Probability MIT playlist]( https://bit.ly/3MFxaBC) <br> 
+&nbsp;[Linear algebra for ML coursera specialization]( https://bit.ly/3pToX32) <br> 
+* Machine learning:
+&nbsp;[Machine learning andrew](https://bit.ly/3u5zfhV) <br>
+&nbsp;[Machine learning udacity]( https://bit.ly/3J2j7Uu) <br>
+&nbsp;[Hands on 2nd edition book]( https://bit.ly/3J1amde) <br>
+&nbsp;[Feature engineering book]( https://bit.ly/3vWNubo) <br>
+
+### 7. Deep Learning
 
 
 
