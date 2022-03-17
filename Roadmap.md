@@ -10,13 +10,13 @@ Here you have the main topics and for each one there are some suggested courses 
 [Intro to cs with python MIT](https://bit.ly/3hV3rqj)  <br>
 
 ### 2. Intro to statistics
-[Descriptive stats (udacity)](https://bit.ly/3t0mZzD) <br>
+[Descriptive stats (Udacity)](https://bit.ly/3t0mZzD) <br>
 
 ### 3. Analysis
 * Pandas and Numpy <br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Google first course(data, data)](https://bit.ly/3pR0480) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Pandas (Corey playlist)](https://bit.ly/3pXk8FX)  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;[Pandas and numpy (udacity)](https://bit.ly/3HV5ULO)  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Pandas and numpy (Udacity)](https://bit.ly/3HV5ULO)  <br>
 * Cleaning <br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Cleaning blog](https://bit.ly/3vXqybR)   <br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Cleaning session](https://bit.ly/35Le3oY )  <br>
@@ -31,14 +31,14 @@ Here you have the main topics and for each one there are some suggested courses 
 &nbsp;&nbsp;&nbsp;&nbsp;[EDA (from google specialization)](https://bit.ly/3CzSrrW ) <br>
 * Dashboards <br>
 &nbsp;&nbsp; 1. Tableau: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;[Tableau (google specialization)]( https://bit.ly/3pY9LBB) <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;[Tableau (udacity)](https://bit.ly/3sZyJm9 ) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Tableau (from google specialization)]( https://bit.ly/3pY9LBB) <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;[Tableau (Udacity)](https://bit.ly/3sZyJm9 ) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Tableau learning](https://tabsoft.co/3tOvtJk) <br>
 &nbsp;&nbsp; 2. Power BI: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Power BI (Coursera)](https://www.coursera.org/projects/power-bi-desktop) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Power BI learning](https://powerbi.microsoft.com/en-us/learning/) <br> 
 * More Statistics <br>
-&nbsp;&nbsp;&nbsp;&nbsp;[Inferential stats (udacity)](https://bit.ly/37a34FY) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;[Inferential stats (Udacity)](https://bit.ly/37a34FY) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Think stats (book)](https://bit.ly/3KA6nEO) <br>
 
 ### 4. SQL
@@ -47,22 +47,40 @@ Here you have the main topics and for each one there are some suggested courses 
 [Intermediate sql (datacamp)](https://bit.ly/3J09xBx ) <br>
 
 ### 5. Tools
-[Git (udacity)](https://bit.ly/3I1h8yc) <br> 
+[Git (Udacity)](https://bit.ly/3I1h8yc) <br> 
 [Intro to web scraping (datacamp)](https://bit.ly/3CuNyjE) <br> 
 [Web scraping (datacamp)]( https://bit.ly/37kqrgi) <br>
 
 ### 6. Machine Learning
 * Probability and linear algebra <br>
-&nbsp;[Probability (khanacademy)](https://bit.ly/379gylk) <br> 
+&nbsp;[Probability (Khanacademy)](https://bit.ly/379gylk) <br> 
 &nbsp;[Probability MIT playlist]( https://bit.ly/3MFxaBC) <br> 
-&nbsp;[Linear algebra for ML coursera specialization]( https://bit.ly/3pToX32) <br> 
-* Machine learning:
+&nbsp;[Linear algebra for ML Coursera specialization]( https://bit.ly/3pToX32) <br> 
+* Machine learning <br>
 &nbsp;[Machine learning andrew](https://bit.ly/3u5zfhV) <br>
-&nbsp;[Machine learning udacity]( https://bit.ly/3J2j7Uu) <br>
-&nbsp;[Hands on 2nd edition book]( https://bit.ly/3J1amde) <br>
+&nbsp;[Machine learning Udacity]( https://bit.ly/3J2j7Uu) <br>
+&nbsp;[Hands on ML 2nd edition book]( https://bit.ly/3J1amde) <br>
 &nbsp;[Feature engineering book]( https://bit.ly/3vWNubo) <br>
 
 ### 7. Deep Learning
+[Deep learning specialization Andrew](https://bit.ly/3I1c396) <br> 
+[Deep learning book](https://bit.ly/3I3lt49) <br>
+
+### 8. Computer Vision
+[Computer Vision Stanford](https://stanford.io/3HZaJDJ) <br>
+
+### 9. NLP
+[NLP Stanford](https://stanford.io/3pUcw76) <br>
+[NLP Coursera specialization](https://bit.ly/3vXkU9M) <br> 
+
+### 10. Spark
+[Spark (Udacity)](https://bit.ly/3sYKFUZ ) <br>
+
+### 11. Data Warehouse
+[Data Warehouse Concepts (Coursera)](https://www.coursera.org/learn/dwdesign) <br>
+
+
+
 
 
 
