@@ -10,7 +10,7 @@
 
 
 <br>
-> You should make a task after each week ,and some projects after each stage
+> You should make a task after each week, and some projects after each stage
 
 ## Stage 1
 ### Week 1 :
