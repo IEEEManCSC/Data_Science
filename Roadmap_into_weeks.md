@@ -20,7 +20,7 @@ Task 1 : [Notebook link](https://colab.research.google.com/drive/1N_sxUfzFwAEQmq
 ### Week 2:
 [Python (second course in the specialization)]( https://www.coursera.org/learn/python-data?specialization=python) <br> 
 [Descriptive stats](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) till lesson4-variability (included) <br>
-
+Task 2 : [Notebook link](https://colab.research.google.com/drive/1JCuKVSZPRKMOG4xzD36Oo0oSHq9628w8?fbclid=IwAR2QiEDl6vzgsERONTARCt2GWgDb-apTwZOjrcJRTOIVMrmT4dfiMj-KyXo) <br> 
 
 ### Week 3:
 Finish [Descriptive stats](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) <br>
