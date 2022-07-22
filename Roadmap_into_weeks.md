@@ -15,10 +15,12 @@
 ## Stage 1
 ### Week 1 :
 [Python (first course in the specialization)](https://www.coursera.org/learn/python?specialization=python) <br> 
+Task 1 : [Notebook link](https://colab.research.google.com/drive/1N_sxUfzFwAEQmqVuOxMfaRGxFuw9DnPm?usp=sharing) <br> 
 
 ### Week 2:
 [Python (second course in the specialization)]( https://www.coursera.org/learn/python-data?specialization=python) <br> 
 [Descriptive stats](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) till lesson4-variability (included) <br>
+
 
 ### Week 3:
 Finish [Descriptive stats](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) <br>
