@@ -25,7 +25,7 @@ Task 2 : [Notebook link](https://colab.research.google.com/drive/1JCuKVSZPRKMOG4
 ### Week 3:
 Finish [Descriptive stats](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) <br>
 [Google first course](https://www.coursera.org/learn/foundations-data?specialization=google-data-analytics) <br>
-
+Task 3 : [Notebook link](https://colab.research.google.com/drive/1tA5Ryyoj1TKyNO2_NoH2M_MB9oNAuTob?usp=sharing) <br> 
 
 ### Week 4:
 [Pandas and Numpy udacity](https://classroom.udacity.com/courses/ud170 ) <br>
