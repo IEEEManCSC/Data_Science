@@ -51,16 +51,19 @@ Finish [Cleaning (datacamp)](https://app.datacamp.com/learn/courses/cleaning-dat
 ### Week 8:
 [EDA (datacamp)](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python) <br>
 Half of [Tableau (udacity)](https://www.udacity.com/course/data-visualization-in-tableau--ud1006 ) <br>
+Task 8 : Investigate the following dataset [Data](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
 
 
 ### Week 9:
 Finish [Tableau (udacity)](https://www.udacity.com/course/data-visualization-in-tableau--ud1006 ) <br>
 [Tableau and visualizing (from google specialization)](https://www.coursera.org/learn/visualize-data?specialization=google-data-analytics) <br>
+Task 9 : [Tableau Task](https://docs.google.com/document/d/1TamjhCdFRgyPi6ZRiYFGRs5KyECbcN6a_vpimEK-aP8/edit?usp=sharing)
 
 
 ### Week 10:
 [Intro to DB](https://app.datacamp.com/learn/courses/introduction-to-relational-databases-in-sql) <br>
 [Intro to SQL](https://app.datacamp.com/learn/courses/introduction-to-sql) <br>
+Task 10 : [SQL Task](https://docs.google.com/document/d/17i9YNOBgyrKJ8cNAA43zDMcUJ7yj3xwrImcZ-SjoHVY/edit?usp=sharing)
 
 
 ### Week 11:
