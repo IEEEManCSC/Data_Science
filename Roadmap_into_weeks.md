@@ -30,6 +30,7 @@ Task 3 : [Notebook link](https://colab.research.google.com/drive/1tA5Ryyoj1TKyNO
 ### Week 4:
 [Pandas and Numpy udacity](https://classroom.udacity.com/courses/ud170 ) <br>
 6 videos of [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br>
+Task 4 : [Notebook link](https://colab.research.google.com/drive/1bAS39rOstc4bf3vdaTvD8PEjlHyIB8wp?usp=sharing#scrollTo=MwzekJmUstWR) <br> 
 
 
 ### Week 5:
