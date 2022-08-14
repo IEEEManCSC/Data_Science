@@ -70,6 +70,7 @@ Task 10 : [SQL Task](https://docs.google.com/document/d/17i9YNOBgyrKJ8cNAA43zDMc
 ### Week 11:
 [Intro to web scraping](https://app.datacamp.com/learn/courses/intermediate-importing-data-in-python) <br>
 [Web scraping](https://app.datacamp.com/learn/courses/web-scraping-with-python) <br> 
+Task 11 : [Scraping Task](https://docs.google.com/document/d/1TmhlH5gOV-glWIMgq6P51sPr3GezLnpaiEqDlptsVDE/edit?usp=sharing)
  
 
 
