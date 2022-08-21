@@ -73,12 +73,60 @@ Task 10 : [SQL Task](https://docs.google.com/document/d/17i9YNOBgyrKJ8cNAA43zDMc
 Task 11 : [Scraping Task](https://docs.google.com/document/d/1TmhlH5gOV-glWIMgq6P51sPr3GezLnpaiEqDlptsVDE/edit?usp=sharing)
  
 
-
 ### Week 12:
 [Inferential Stats](https://classroom.udacity.com/courses/ud201 ) <br>
 
 
-<br>
+
+## Stage 3
+### Week 13 :
+First 3 weeks in [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning?specialization=mathematics-machine-learning) <br> 
+First week in [Supervised Machine Learning](https://www.coursera.org/learn/machine-learning) <br> 
+
+
+### Week 14 :
+Finish [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning?specialization=mathematics-machine-learning) <br>
+Finish [Supervised Machine Learning](https://www.coursera.org/learn/machine-learning) <br> 
+
+
+### Week 15 :
+First 3 weeks in [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning) <br>
+First 2 weeks in [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) <br> 
+
+
+### Week 16 :
+Finish [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning) <br>
+Finish [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) <br> 
+
+
+### Week 17 :
+[Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning) <br>
+
+
+### Week 18 :
+First 2 chapters in [Hands on ML book](https://drive.google.com/file/d/1tAoPyJfFOt6fzi2SFGJAJArPlIKWV5gd/view?usp=sharing) <br>
+
+
+### Week 19 :
+Chapters 3,4 in [Hands on ML book](https://drive.google.com/file/d/1tAoPyJfFOt6fzi2SFGJAJArPlIKWV5gd/view?usp=sharing) <br>
+
+
+### Week 20 :
+Chapters 5,6 in [Hands on ML book](https://drive.google.com/file/d/1tAoPyJfFOt6fzi2SFGJAJArPlIKWV5gd/view?usp=sharing) <br>
+
+
+### Week 21 :
+Chapters 7,8 in [Hands on ML book](https://drive.google.com/file/d/1tAoPyJfFOt6fzi2SFGJAJArPlIKWV5gd/view?usp=sharing) <br>
+
+
+### Week 22 :
+Chapter 9 in [Hands on ML book](https://drive.google.com/file/d/1tAoPyJfFOt6fzi2SFGJAJArPlIKWV5gd/view?usp=sharing) <br>
+First part in [Probability](https://www.khanacademy.org/math/statistics-probability/probability-library) <br>
+
+
+### Week 23 :
+Finish [Probability](https://www.khanacademy.org/math/statistics-probability/probability-library) <br>
+
 > More to be added...
 
 
