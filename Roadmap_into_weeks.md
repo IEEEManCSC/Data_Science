@@ -76,6 +76,7 @@ Task 11 : [Scraping Task](https://docs.google.com/document/d/1TmhlH5gOV-glWIMgq6
 
 ### Week 12:
 [Inferential Stats](https://classroom.udacity.com/courses/ud201 ) <br>
+Task 12 : [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSc0QKKMx2LuDcnuC_9nDyzQDhnn2BKkwoAe6KxwdQ_FjEsBYw/viewform?usp=sf_link)
 
 
 
