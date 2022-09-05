@@ -38,6 +38,7 @@ Task 4 p2 : [Notebook link](https://colab.research.google.com/drive/1jGpdatYPiQv
 [Git (udacity)](https://bit.ly/3I1h8yc) <br>
 2 lessons of [Cleaning (datacamp)](https://app.datacamp.com/learn/courses/cleaning-data-in-python) <br> 
 [Cleaning blog](https://bit.ly/3vXqybR ) <br>
+Task 5 : [Notebook link](https://colab.research.google.com/drive/1w_sO_9GcQbDsnbHl85XvUYwNOVA0vsE5?usp=sharing) <br> 
 
 
 ### Week 6:
