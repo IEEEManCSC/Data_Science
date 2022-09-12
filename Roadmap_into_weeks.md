@@ -1,6 +1,6 @@
 # Roadmap into weeks
 
-## It's the same roadmap, but divided into weeks with an average studying rate of 6 hours per week.
+## It's the same roadmap, but divided into weeks with an average studying rate of 7 hours per week.
 
 ### This roadmap is divided into 4 stages:
 ### 1. Stage 1: you get a basic understanding of the prerequisites, data cleaning and git.
@@ -44,6 +44,7 @@ Task 5 : [Notebook link](https://colab.research.google.com/drive/1w_sO_9GcQbDsnb
 ### Week 6:
 Finish [Cleaning (datacamp)](https://app.datacamp.com/learn/courses/cleaning-data-in-python) <br>
 [Visualizing (datacamp)](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-seaborn ) <br>
+Task 6 : [Link](https://drive.google.com/drive/folders/1Nxi3h7cxIFDJ1Zr8LajnHYDA2cuLDAK2?usp=sharing) <br> 
 
 ## Stage 2
 ### Week 7:
