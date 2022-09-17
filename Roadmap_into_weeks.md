@@ -86,11 +86,13 @@ Task 12 : [Notebook Link](https://colab.research.google.com/drive/1MbniueZJ4ixef
 ### Week 13 :
 First 3 weeks in [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning?specialization=mathematics-machine-learning) <br> 
 First week in [Supervised Machine Learning](https://www.coursera.org/learn/machine-learning) <br> 
+Task 13 : [Notebook Link](https://colab.research.google.com/drive/1OMe4HlaLDP1kCVzS1uhTsIYSQfwurKAk?usp=sharing)
 
 
 ### Week 14 :
 Finish [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning?specialization=mathematics-machine-learning) <br>
 Finish [Supervised Machine Learning](https://www.coursera.org/learn/machine-learning) <br> 
+Task 14 : [Notebook Link](https://colab.research.google.com/drive/1rB7ApBCg5yOzfmM3x142OG4_wFYI2bOy?usp=sharing)
 
 
 ### Week 15 :
