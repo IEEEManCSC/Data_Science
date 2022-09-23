@@ -50,6 +50,7 @@ Task 6 : [Link](https://drive.google.com/drive/folders/1Nxi3h7cxIFDJ1Zr8LajnHYDA
 ### Week 7:
 [Ask Questions (from google specialization)](https://www.coursera.org/learn/ask-questions-make-decisions?specialization=google-data-analytics) <br>
 [More Visualizing (datacamp)](https://app.datacamp.com/learn/courses/intermediate-data-visualization-with-seaborn ) <br>
+Task 7 : [Link](https://docs.google.com/document/d/1bg3uHz1BGwuj_LuBr_V9dxJAviMapITidSvjgswiAbw/edit?usp=sharing)
 
 
 ### Week 8:
