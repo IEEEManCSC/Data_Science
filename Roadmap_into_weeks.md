@@ -28,7 +28,7 @@ Finish [Descriptive stats](https://www.udacity.com/course/intro-to-descriptive-s
 Task 3 : [Notebook link](https://colab.research.google.com/drive/1tA5Ryyoj1TKyNO2_NoH2M_MB9oNAuTob?usp=sharing) <br> 
 
 ### Week 4:
-[Pandas and Numpy udacity](https://classroom.udacity.com/courses/ud170 ) <br>
+[Numpy video](https://www.youtube.com/watch?v=QUT1VHiLmmI) <br>
 6 videos of [Corey playlist](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS ) <br>
 Task 4 p1 : [Notebook link](https://colab.research.google.com/drive/1bAS39rOstc4bf3vdaTvD8PEjlHyIB8wp?usp=sharing#scrollTo=MwzekJmUstWR) <br> 
 Task 4 p2 : [Notebook link](https://colab.research.google.com/drive/1jGpdatYPiQv5VLPtQutRPtGsi6Bpm3U4?usp=sharing) <br> 
