@@ -105,6 +105,7 @@ Task 15 : [Notebook Link](https://colab.research.google.com/drive/1F11lgEXGlw9Uv
 ### Week 16 :
 Finish [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning) <br>
 Finish [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) <br> 
+Task 16 : [Notebook Link](https://colab.research.google.com/drive/1ROo0doUySbAcTLxAY0FXVnWGNwpBYISM?usp=sharing)
 
 
 ### Week 17 :
