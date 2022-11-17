@@ -59,12 +59,12 @@ Here you have the main topics and for each one there are some suggested courses 
 * Machine learning <br>
 &nbsp;[Machine learning andrew](https://bit.ly/3u5zfhV) <br>
 &nbsp;[Machine learning Udacity]( https://bit.ly/3J2j7Uu) <br>
-&nbsp;[Hands on ML 2nd edition book](https://drive.google.com/file/d/1tAoPyJfFOt6fzi2SFGJAJArPlIKWV5gd/view) <br>
+&nbsp;[Hands on ML 2nd edition book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975) <br>
 &nbsp;[Feature engineering book]( https://bit.ly/3vWNubo) <br>
 
 ### 7. Deep Learning
 [Deep learning specialization Andrew](https://bit.ly/3I1c396) <br> 
-[Deep learning book](https://bit.ly/3I3lt49) <br>
+[Deep learning book](https://www.manning.com/books/deep-learning-with-python-second-edition) <br>
 
 ### 8. Computer Vision
 [Computer Vision Stanford](https://stanford.io/3HZaJDJ) <br>
