@@ -85,6 +85,7 @@ Task 12 : [Notebook Link](https://colab.research.google.com/drive/1MbniueZJ4ixef
 
 ## Stage 3
 ### Week 13 :
+[Prof. H.Tizhoosh](https://www.youtube.com/watch?v=tExPpuk-UQ8&list=PLvan4zSb2RaoRGHbSP15RYrUycboAmmLL&index=1) <br>
 First 3 weeks in [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning?specialization=mathematics-machine-learning) <br> 
 First week in [Supervised Machine Learning](https://www.coursera.org/learn/machine-learning) <br> 
 Task 13 : [Notebook Link](https://colab.research.google.com/drive/1OMe4HlaLDP1kCVzS1uhTsIYSQfwurKAk?usp=sharing)
