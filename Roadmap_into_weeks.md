@@ -113,23 +113,23 @@ Task 16 : [Notebook Link](https://colab.research.google.com/drive/1ROo0doUySbAcT
 
 
 ### Week 18 :
-First 2 chapters in [Hands on ML book](https://drive.google.com/file/d/1tAoPyJfFOt6fzi2SFGJAJArPlIKWV5gd/view?usp=sharing) <br>
+First 2 chapters in [Hands on ML book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975) <br>
 
 
 ### Week 19 :
-Chapters 3,4 in [Hands on ML book](https://drive.google.com/file/d/1tAoPyJfFOt6fzi2SFGJAJArPlIKWV5gd/view?usp=sharing) <br>
+Chapters 3,4 in [Hands on ML book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975) <br>
 
 
 ### Week 20 :
-Chapters 5,6 in [Hands on ML book](https://drive.google.com/file/d/1tAoPyJfFOt6fzi2SFGJAJArPlIKWV5gd/view?usp=sharing) <br>
+Chapters 5,6 in [Hands on ML book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975) <br>
 
 
 ### Week 21 :
-Chapters 7,8 in [Hands on ML book](https://drive.google.com/file/d/1tAoPyJfFOt6fzi2SFGJAJArPlIKWV5gd/view?usp=sharing) <br>
+Chapters 7,8 in [Hands on ML book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975) <br>
 
 
 ### Week 22 :
-Chapter 9 in [Hands on ML book](https://drive.google.com/file/d/1tAoPyJfFOt6fzi2SFGJAJArPlIKWV5gd/view?usp=sharing) <br>
+Chapter 9 in [Hands on ML book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975) <br>
 First part in [Probability](https://www.khanacademy.org/math/statistics-probability/probability-library) <br>
 
 
