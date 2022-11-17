@@ -58,7 +58,7 @@ Here you have the main topics and for each one there are some suggested courses 
 &nbsp;[Linear algebra for ML Coursera specialization]( https://bit.ly/3pToX32) <br> 
 * Machine learning <br>
 &nbsp;[Machine learning andrew](https://bit.ly/3u5zfhV) <br>
-&nbsp;[Machine learning Udacity]( https://bit.ly/3J2j7Uu) <br>
+&nbsp;[Machine learning IBM](https://www.coursera.org/learn/machine-learning-with-python?specialization=ai-engineer&fbclid=IwAR35JlCKXk3OdCYVRFnK_pRXmiko5CHO7lKk5rLld8M3A9McbtIVPDn6AFs) <br>
 &nbsp;[Hands on ML 2nd edition book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975) <br>
 &nbsp;[Feature engineering book]( https://bit.ly/3vWNubo) <br>
 
