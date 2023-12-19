@@ -60,6 +60,7 @@ Here you have the main topics and for each one there are some suggested courses 
 &nbsp;[Machine learning andrew](https://bit.ly/3u5zfhV) <br>
 &nbsp;[Machine learning IBM](https://www.coursera.org/learn/machine-learning-with-python?specialization=ai-engineer&fbclid=IwAR35JlCKXk3OdCYVRFnK_pRXmiko5CHO7lKk5rLld8M3A9McbtIVPDn6AFs) <br>
 &nbsp;[Hands on ML 2nd edition book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975) <br>
+&nbsp;[Videos of Hands on ML 2nd edition](https://www.youtube.com/playlist?list=PL1YWN9bMt3ODJnCNW1WqJ46tXVMCgdwTI) <br>
 &nbsp;[Feature engineering book]( https://bit.ly/3vWNubo) <br>
 
 ### 7. Deep Learning
