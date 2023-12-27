@@ -56,6 +56,7 @@ Task 7 : [Link](https://docs.google.com/document/d/1bg3uHz1BGwuj_LuBr_V9dxJAviMa
 ### Week 8:
 [EDA (datacamp)](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-python) <br>
 Half of [Tableau (udacity)](https://www.udacity.com/course/data-visualization-in-tableau--ud1006 ) <br>
+[Excel data analysis](https://youtube.com/playlist?list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5&si=Kdy-f0nCqEwPEj-N) <br>
 Task 8 : Investigate the following dataset [Data](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
 
 
